@@ -1,0 +1,5 @@
+{'stu_id': '9318', 'name': 'luffy', 'eng_score': '56', 'python_score': '56', 'java_score': '56'}
+{'stu_id': '9217', 'name': 'zero', 'eng_score': 77, 'python_score': 32, 'java_score': 32}
+{'stu_id': '9320', 'name': 'ljh', 'eng_score': '67', 'python_score': '98', 'java_score': '98'}
+{'stu_id': '9322', 'name': 'lwh', 'eng_score': 67, 'python_score': 67, 'java_score': 67}
+{'stu_id': '9888', 'name': 'lolo', 'eng_score': '89', 'python_score': '89', 'java_score': '78'}
