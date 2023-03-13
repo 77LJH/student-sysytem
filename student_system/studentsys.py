@@ -1,6 +1,4 @@
-# 学习单位 ：广东工业大学
-# 学   生 ：凌嘉辉
-# 开发时间 ：2023/1/3 15:08
+
 import os
 
 filename = 'student.txt'
